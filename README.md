@@ -1,6 +1,6 @@
 # just_for_fun
-use python code to do some interesting things
----
+use python code to do some interesting things.   
+
 ## download_cvpr2016.py
 This can be used to download all papers in CVPR2016.    
 Instructions are in the file.   
