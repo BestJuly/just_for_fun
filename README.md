@@ -12,6 +12,6 @@ Enjoy!
 * Change the `path` or place the code in the file path.   
 * Change the `ori_name` and `new_name`.   
 * Change the split rule or just delete line11.   
-*　Run the code and rename files in your path.   
+* Run the code and rename files in your path.   
 Enjoy!   
 
