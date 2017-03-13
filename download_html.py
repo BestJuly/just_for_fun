@@ -1,29 +1,10 @@
-'''
-# -*- coding: utf-8 -*-
-import urllib2
-
-url = 'http://blog.nogizaka46.com/rina.ikoma/'
-request = urllib2.Request(url)
-response = urllib2.urlopen(request)
-a = respose.read()
-txt = '1.html'
-f = open(txt,"w+")
-f.write(a)
-f.close()
-'''
-
 #coding:utf-8
 import random
 import socket
 import urllib2
 import cookielib
-import hashlib 
+import pdb
 
-def md5(value):
-    m = hashlib.md5()
-    m.update(value)
-    return m.hexdigest()
-    
 class BrowserBase(object): 
     def __init__(self):
         socket.setdefaulttimeout(20)
@@ -51,12 +32,11 @@ class BrowserBase(object):
         try:
             res = self.opener.open(url)
             context = res.read()
+            pdb.set_trace()
             # write context to XXX.html
             f = open('save.html','w+')
             f.write(context)
             fclose()
-            # calculate MD5
-            md5_num = md5(context)
         except Exception,e:
             self.speak(str(e)+url)
             raise Exception
