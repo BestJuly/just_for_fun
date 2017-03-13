@@ -15,4 +15,8 @@ Enjoy!
 * Change the split rule or just delete line11.   
 * Run the code and rename files in your path.        
 
+## send_email.py
+* Change necessary variable values in this code.   
+**Notice**: uncomment line 25 to check ERROR ID if you have problems when run this code.
+
 Enjoy!
