@@ -27,6 +27,6 @@ If it is helpful to you, please add a star, thank you.
 
 ## IamIce.py
 **Instructions**: Run this code, log in your wechat account and you can link your wechat account to Xiaoice. Your can reply messages autometicly.    
-**Notice**: use `pip install itchat` if you haven't install `itchat`. If you want to know more about `itchat`, please refer to [itchat](https://itchat.readthedocs.io/zh/latest/).
+**Notice**: use `pip install itchat` if you haven't install `itchat`. If you want to know more about `itchat`, please refer to [itchat](https://itchat.readthedocs.io/zh/latest/). All images will be saved in your folder where you put this.
 
 Enjoy!
