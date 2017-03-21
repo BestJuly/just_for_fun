@@ -29,4 +29,9 @@ If it is helpful to you, please add a star, thank you.
 **Instructions**: Run this code, log in your wechat account and you can link your wechat account to Xiaoice. Your can reply messages autometicly.    
 **Notice**: use `pip install itchat` if you haven't install `itchat`. If you want to know more about `itchat`, please refer to [itchat](https://itchat.readthedocs.io/zh/latest/). All images will be saved in your folder where you put this.
 
+## monitor_ikoma_blog.py
+**Instructions**: This is used to check whether Rina Ikoma has written a new blog. If there is a new blog in the webside, you will receive an e-mail. Rina Ikoma is an idol in Nogizaka 46. It doesn't support mobile blog.    
+* Change `mail_host`,`mail_user`,'mail_pass',`sender`,'receivers' and other relative varaibles.
+* If you want to monitor other member, change `url` in line 93.
+
 Enjoy!
