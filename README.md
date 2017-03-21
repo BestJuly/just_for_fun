@@ -25,7 +25,7 @@ use python code to do some interesting things.
 **Instructions**: This can be used to calculate MD5.    
 
 ## IamIce.py
-**Instructions**: Run this code, log in your wechat account and you can link your wechat account to Xiaoice. Your can reply messages autometicly.
-**Notice**: use `pip install itchat` if you haven't install ¡`itchat`.
+**Instructions**: Run this code, log in your wechat account and you can link your wechat account to Xiaoice. Your can reply messages autometicly.    
+**Notice**: use `pip install itchat` if you haven't install `itchat`. If you want to know more about `itchat`, please refer to [itchat](https://itchat.readthedocs.io/zh/latest/).
 
 Enjoy!
