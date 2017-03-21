@@ -6,8 +6,6 @@ use python code to do some interesting things.
 * Change the local path `localDir` and run the code.   
 * After a cup of coffee, all papers have been downloaded.      
 
-Enjoy!   
-
 ## rename.py
 **Instructions**: This aims to rename files with specific form.   
 * Change the `path` or place the code in the file path.   
@@ -26,5 +24,8 @@ Enjoy!
 ## md5.py
 **Instructions**: This can be used to calculate MD5.    
 
+## IamIce.py
+**Instructions**: Run this code, log in your wechat account and you can link your wechat account to Xiaoice. Your can reply messages autometicly.
+**Notice**: use `pip install itchat` if you haven't install ¡`itchat`.
 
 Enjoy!
