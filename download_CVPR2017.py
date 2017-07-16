@@ -18,6 +18,10 @@ for url in link_list:
     url = url[0:-5]
     #seperate file name from url links
     file_name = name_list[cnt].split('<')[0].split('>')[1]
+    #import pdb
+    #pdb.set_trace()
+    file_name = file_name.replace(':','_')
+    file_name = file_name.replace('\"','_')
     file_path = localDir + file_name + '.pdf'
     # download pdf files
     try:
