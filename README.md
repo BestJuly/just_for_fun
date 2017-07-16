@@ -2,6 +2,11 @@
 Use python code to do some interesting things.     
 If it is helpful to you, please add a star, thank you.
 
+## download_CVPR2017.py
+**Instructions**: This can be used to download all papers in CVPR2017. The supplement will not be download if you use this code.    
+* Change the local path `localDir` and run the code. The default path is `E:\CVPR2017`.   
+* After a cup of coffee, all papers have been downloaded.  
+
 ## download_cvpr2016.py
 **Instructions**: This can be used to download all papers in CVPR2016.    
 * Change the local path `localDir` and run the code.   
